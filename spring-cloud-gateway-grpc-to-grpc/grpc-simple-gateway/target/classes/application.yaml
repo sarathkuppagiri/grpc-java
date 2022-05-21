@@ -1,0 +1,14 @@
+server:
+  port: 8090
+  http2:
+    enabled: true
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: grpc
+          uri: https://localhost:9090
+          predicates:
+            - Path=/**
+          filters:
+            - AddResponseHeader=X-Request-header, header-value

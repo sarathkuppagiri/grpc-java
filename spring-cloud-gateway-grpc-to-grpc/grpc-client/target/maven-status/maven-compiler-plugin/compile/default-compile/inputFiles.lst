@@ -1,0 +1,7 @@
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpcserver/hello/HelloRequest.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpcserver/hello/HelloRequestOrBuilder.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpcserver/hello/HelloResponseOrBuilder.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpcserver/hello/Hello.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpcserver/hello/HelloResponse.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/target/generated-sources/protobuf/grpc-java/com/example/grpcserver/hello/HelloServiceGrpc.java
+/Users/sarathkumarreddy/grpc-java/spring-cloud-gateway-grpc-to-grpc/grpc-client/src/main/java/com/example/grpcclient/GrpcClientApplication.java
