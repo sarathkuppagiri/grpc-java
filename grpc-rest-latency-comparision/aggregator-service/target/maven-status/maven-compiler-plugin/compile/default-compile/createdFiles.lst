@@ -1,7 +1,0 @@
-com/vinsguru/api/dto/CPUIOResponse.class
-com/vinsguru/api/controller/GrpcAPIController.class
-com/vinsguru/api/service/GrpcService.class
-com/vinsguru/api/controller/RestAPIController.class
-com/vinsguru/api/AggregatorApplication.class
-com/vinsguru/api/service/OutputStreamingResponse.class
-com/vinsguru/api/service/RestService.class

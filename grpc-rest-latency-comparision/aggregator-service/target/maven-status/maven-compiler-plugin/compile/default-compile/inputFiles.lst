@@ -1,7 +1,0 @@
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/controller/RestAPIController.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/AggregatorApplication.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/service/GrpcService.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/controller/GrpcAPIController.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/service/OutputStreamingResponse.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/service/RestService.java
-/Users/sarathkumarreddy/grpc-java/grpc-rest-latency-comparision/aggregator-service/src/main/java/com/vinsguru/api/dto/CPUIOResponse.java
